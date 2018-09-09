@@ -1,13 +1,13 @@
 
 [![N|Solid](https://irfanahmed.net.pk/images/bootstrap.png)](https://irfanahmed.net.pk/)
 
-I am still working on it, so please forget to send error report and suggestions.
+I am still working on it. So Please don't forget to send your suggestions/error report.
 
 # New Features!
 
 - On scroll navbar fixed top
 - Full Screen Background
-- Go top
+- Scroll Back To Top
 - Crystal background
 - Note and important Comment
 - Smooth Scroll to ID
@@ -42,7 +42,7 @@ background blur options  (blur-x1, blur-x2, blur-x3 )
 <div class="go-top"><i class="fa fa-angle-double-up"></i></div>
 <div class="go-top">  jpg,gif,etc  </div>
 ```
-### Colored Navbar
+### Navbar
 ```sh
 Color background
 <nav class="navbar navbar-expand-sm bg-light navbar-light">
@@ -80,8 +80,7 @@ Crystal background
 </ul>
 </nav>
 ```
-### Full Screen Background
-```sh
+
 ### Note and important Comment -box
 ```sh
 <div class="note note-comment note-brown"> TEXT </div>
@@ -96,7 +95,7 @@ Tip: You can use bootstrap text and background colors
 ### View image, YouTube video, Vimeo video
 ```sh
 Youtube : <a href="https://www.youtube.com/watch?v=FxGeE9FVnuk"> Youtube </a>
-Vimeo : <a href="https://vimeo.com/54366751"> Vimeo </a>
+Vimeo :   <a href="https://vimeo.com/54366751"> Vimeo </a>
 Image : <a href="https://imagelink.jpg"> Image </a>
 ```
 ```sh
