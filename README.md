@@ -1,5 +1,4 @@
 
-[![N|Solid](https://irfanahmed.net.pk/images/bootstrap.png)](https://irfanahmed.net.pk/)
 
 I am still working on it. So Please don't forget to send your suggestions/error report.
 
